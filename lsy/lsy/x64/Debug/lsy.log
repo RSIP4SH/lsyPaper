@@ -1,0 +1,9 @@
+﻿  main.cpp
+  MserBase.cpp
+  MathMorphBase.cpp
+  ImagePreprocessBase.cpp
+  DenoisingBase.cpp
+  ClusteringBase.cpp
+  正在生成代码...
+  lsy.vcxproj -> C:\Users\lyc\documents\visual studio 2015\Projects\lsy\x64\Debug\lsy.exe
+  lsy.vcxproj -> C:\Users\lyc\documents\visual studio 2015\Projects\lsy\x64\Debug\lsy.pdb (Full PDB)
