@@ -1,9 +1,5 @@
 ﻿  main.cpp
-  MserBase.cpp
-  MathMorphBase.cpp
-  ImagePreprocessBase.cpp
-  DenoisingBase.cpp
-  ClusteringBase.cpp
-  正在生成代码...
-  lsy.vcxproj -> C:\Users\lyc\documents\visual studio 2015\Projects\lsy\x64\Debug\lsy.exe
-  lsy.vcxproj -> C:\Users\lyc\documents\visual studio 2015\Projects\lsy\x64\Debug\lsy.pdb (Full PDB)
+e:\code\lisuiyuepaper\lsypaper\lsy\lsy\main.cpp(105): warning C4309: “=”: 截断常量值
+e:\code\lisuiyuepaper\lsypaper\lsy\lsy\main.cpp(139): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  lsy.vcxproj -> E:\code\lisuiyuePaper\lsyPaper\lsy\x64\Debug\lsy.exe
+  lsy.vcxproj -> E:\code\lisuiyuePaper\lsyPaper\lsy\x64\Debug\lsy.pdb (Full PDB)

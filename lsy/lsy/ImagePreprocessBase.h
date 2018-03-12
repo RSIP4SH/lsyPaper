@@ -10,6 +10,12 @@ public:
 	ImagePreprocessBase();
 	virtual ~ImagePreprocessBase();
 private:
-	Mat img;
 };
 
+class ImagePreprocess : public ImagePreprocessBase
+{
+public:
+	ImagePreprocess();
+	virtual ~ImagePreprocess();
+private:
+};
